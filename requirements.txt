@@ -1,0 +1,15 @@
+
+langchain
+langchain_experimental
+langchain_community
+langchainhub
+chromadb # Vector storage
+huggingface_hub
+sentence-transformers
+numpy
+python-dotenv~=1.0.0
+PyPDF2
+pypdf
+pypdf2
+
+
