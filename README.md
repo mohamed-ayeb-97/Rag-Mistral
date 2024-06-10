@@ -1,12 +1,10 @@
-Sure, here's a README file for the repository:
-
 ---
 
 # Retrieval-Augmented Generation (RAG) with Mistral
 
 This repository contains a Jupyter Notebook demonstrating the implementation of a Retrieval-Augmented Generation (RAG) model using Mistral as the Language Model (LLM). RAG is a technique that combines document retrieval with sequence generation, enhancing the ability of the model to produce contextually relevant and accurate responses based on external documents.
 
-![](workflow/rag_workflow.PNG)
+![](workflow/rag_workflow.png)
 
 ## Overview
 
